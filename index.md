@@ -1,3 +1,3 @@
 # Practice of github actions 
-## Header 2 size practice 
-###### Try the smallest size 
+## Practice I 
+![Image of cat](https://octodex.github.com/images/yaktocat.png)
